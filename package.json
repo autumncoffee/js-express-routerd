@@ -1,0 +1,11 @@
+{
+  "name": "ac-express-routerd",
+  "version": "1.0.0",
+  "description": "routerd compatibility layer for express.js",
+  "main": "ac_express_routerd.js",
+  "private": true,
+  "dependencies": {
+    "ac-bodyparser": "autumncoffee/js-bodyparser#v1.0.2"
+  },
+  "scripts": {}
+}
